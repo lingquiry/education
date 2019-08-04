@@ -7,4 +7,19 @@
 - [ ] To create language-teaching/learning platforms based on corpus linguistic databases
 - [ ] To apply our language teaching platforms for automated question-answering systems that can be used for a wide variety of purposes, e.g. emplolyee training/development. 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
 [Go to the intro](#linguistic-content-and-analysis-for-education-and-businesses)
