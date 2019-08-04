@@ -1,5 +1,5 @@
-# education
-Our service plans for education businesses are like the following:
+# Linguistic Content and Analysis for Education and Businesses
+:bookmark: Our service plans for education businesses are like the following:
 
 
 - [ ] To provide linguistic data/content for language education businesses
