@@ -1,8 +1,8 @@
 # education
-Our service plans for education
+Our service plans for education businesses are like the following:
 
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [ ] To provide linguistic data/content for language education businesses
+- [ ] To develop and provide our linguistic metalanguage, e.g, ontology system, for businesses and institutions
+- [ ] To create language-teaching/learning platforms based on corpus linguistic databases
+- [ ] To apply our language teaching platforms for automated question-answering systems that can be used for a wide variety of purposes, e.g. emplolyee training/development. 
